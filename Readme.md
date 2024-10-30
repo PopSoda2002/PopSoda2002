@@ -5,6 +5,4 @@
 * 🤖 Currently I'm interested in LLMs and their applications especially in the field of robotics like autonomous driving.
 * 🛹 I love to play skateboard and enjoy the beautiful nature and architecture in the world.
 
-<strong>Useful Links 📫</strong>
-* 🌐 [Page](http://huapengzhou.com)
-* 📝 [Blog](http://blog.huapengzhou.com/) 
+<strong>Useful Links 📫</strong> 🌐 [Page](http://huapengzhou.com) | 📝 [Blog](http://blog.huapengzhou.com/)
