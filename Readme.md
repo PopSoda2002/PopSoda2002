@@ -1,4 +1,4 @@
-🌱 Currently I'm a M.S. majoring in ECE at [University of Washington](https://www.washington.edu/), Seattle, USA 🇺🇸. Before, I got my B.S. at [Southeast University](https://www.seu.edu.cn/), Nanjing, China 🇨🇳 and worked as a software engineer 👨‍💻 at [Pony.ai](https://www.pony.ai/) for 1 year.
+🌱 Currently I'm a M.S. majoring in ECE at [University of Washington](https://www.washington.edu/), Seattle, USA 🇺🇸. Before, I got my B.S. at [Southeast University](https://www.seu.edu.cn/), Nanjing, China 🇨🇳 and worked as a software engineer 🚗 at [Pony.ai](https://www.pony.ai/) for 1 year.
 
 <strong>More About Me</strong> 👨‍💻
 * 🛠️ I love to build things and learn new things.
